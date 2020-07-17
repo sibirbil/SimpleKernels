@@ -1,11 +1,12 @@
 # Low-dimensional Interpretable Kernels with Conic Discriminant Functions for Classification
 
-In this study, we propose several simple feature maps that lead to a
-collection of interpretable kernels with varying degrees of
-freedom. We make sure that the increase in the dimension of input data
-with each proposed feature map is extremely low, so that the resulting
-models can be trained quickly, and the obtained results can easily be
-interpreted.
+We propose several simple feature maps that lead to a collection of
+interpretable kernels with varying degrees of freedom. We make sure
+that the increase in the dimension of input data with each proposed
+feature map is extremely low, so that the resulting models can be
+trained quickly, and the obtained results can easily be
+interpreted. The details of this study is given in our
+[paper](./InterpretableConicKernels.pdf).
 
 
 # Required packages
