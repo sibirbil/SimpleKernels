@@ -28,17 +28,17 @@ We provide the following tutorials to demonstrate our implementation.
   also provide the same tutorials as two notebooks, [notebook one](./FeatureMaps.ipynb) and
   [notebook two](./Kernels.ipynb), respectively.
 
-* To obtain a row of Table 1, we refer to page [Table
+* To obtain a row of Table 1, we refer to the page [Table
   1](./Table_1.html) or to the [notebook](./Table_1.ipynb).
 
 * To obtain a row of Table 2 and Table 3, we refer to the page
   [Table_2_3](./Table_2_3.html) or to the
   [notebook](./Table_2_3.ipynb).
 
-* To obtain Figure 3, we refer to page [Figure_3](./Figure_3.html)
+* To obtain Figure 3, we refer to the page [Figure_3](./Figure_3.html)
   or to the [notebook](./Figure_3.ipynb).
 
-* To obtain Figure 5, we refer to page [Figure_5](./Figure_5.html)
+* To obtain Figure 5, we refer to the page [Figure_5](./Figure_5.html)
   or to the [notebook](./Figure_5.ipynb).
 
 
