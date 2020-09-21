@@ -6,7 +6,7 @@ that the increase in the dimension of input data with each proposed
 feature map is extremely low, so that the resulting models can be
 trained quickly, and the obtained results can easily be
 interpreted. The details of this study is given in our
-[paper](./InterpretableConicKernels.pdf).
+[paper](https://arxiv.org/abs/2007.08986).
 
 
 # Required packages
